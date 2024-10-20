@@ -44,7 +44,7 @@ The Wiki project is a simple web application built using Django. It allows users
 
 3. **Run the application**:
    ```sh
-   python manage.py runserver
+   python m[README.md](README.md)anage.py runserver
    ```
 
 4. **Access the application**:
